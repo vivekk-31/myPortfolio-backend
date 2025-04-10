@@ -46,5 +46,5 @@ app.post('/', async (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Portfolio app listening on port ${port}`)
 })
